@@ -1,2 +1,2 @@
 # PokemonShop
-An Android app built in Unity that manages Pokémon card inventory using SQLite and C#.
+This repository contains all c# files for the project as well as the APK file
